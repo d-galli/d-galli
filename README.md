@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @d-galli, a industrial mechanical engineering student based in South Tyrol 🇮🇹.
+- 👋 Hi, I’m @d-galli, a industrial mechanical engineer and PhD student based in South Tyrol 🇮🇹.
 - 📍 I live in Bozen/Bolzano, in the heart of the Dolomites⛰️.
 - 👀 I’m interested in robotics and indutrial automation.
-- 🌱 I’m currently learning ROS and C++ to improve my programming skills.
+- 🌱 I’m currently learning C# to improve my programming skills.
 - 📫 If you want to reach me out, write an [email](mailto:dgalli@unibz.it).
 
 <!---
